@@ -1,0 +1,2 @@
+Что такое std::condition_variable?
+условная переменная
